@@ -1,4 +1,4 @@
-# vite-react-typescript-template
+# display-digit
 
 Vite React Typescript template for simple web frontend project.
 
